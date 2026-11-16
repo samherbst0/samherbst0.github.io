@@ -8,7 +8,11 @@ This code review walks through the three artifacts in my ePortfolio as they were
 
 ## Video
 
-**[Watch the code review video](VIDEO_LINK_HERE)** (about 20 minutes)
+<video controls preload="metadata" style="width:100%;max-width:960px;" src="{{ "/assets/video/code-review.mp4" | relative_url }}">
+  Your browser can't play this video. <a href="{{ "/assets/video/code-review.mp4" | relative_url }}">Download the code review video (MP4)</a>.
+</video>
+
+About 21 minutes. If the video doesn't play, [download the MP4]({{ "/assets/video/code-review.mp4" | relative_url }}).
 
 The video covers each artifact in order: Software Design and Engineering, Algorithms and Data Structures, then Databases. A written summary of the review follows below.
 
