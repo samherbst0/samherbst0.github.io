@@ -1,0 +1,63 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Weight Tracker</string>
+
+    <!-- Login Screen -->
+    <string name="app_logo">Weight tracker logo</string>
+    <string name="track_your_progress">Track your progress daily to achieve your weight goals!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="login_info">First time users: enter username and password and tap Create Account.</string>
+    <string name="login_success">Welcome back!</string>
+    <string name="login_failed">Invalid username or password</string>
+    <string name="account_created">Account created successfully</string>
+    <string name="account_exists">Username already exists</string>
+    <string name="fill_all_fields">Please fill in all fields</string>
+
+    <!-- Main Screen -->
+    <string name="weight_tracker">Weight Tracker</string>
+    <string name="current_weight">Current</string>
+    <string name="goal_weight">Goal</string>
+    <string name="set_goal">Set Goal</string>
+    <string name="edit_goal">Edit Goal</string>
+    <string name="date">Date</string>
+    <string name="weight">Weight (lbs)</string>
+    <string name="action">Action</string>
+    <string name="add_weight">Add Weight</string>
+    <string name="no_weights_yet">No weight entries yet.\nTap + to add your first weight!</string>
+    <string name="delete">Delete</string>
+    <string name="lbs">lbs</string>
+
+    <!-- Add Weight Dialog -->
+    <string name="add_daily_weight">Add Daily Weight</string>
+    <string name="enter_weight">Enter weight</string>
+    <string name="select_date">Select date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="weight_added">Weight added successfully</string>
+    <string name="weight_deleted">Weight entry deleted</string>
+    <string name="enter_valid_weight">Please enter a valid weight</string>
+
+    <!-- Goal Dialog -->
+    <string name="set_goal_weight">Set Goal Weight</string>
+    <string name="update_goal_weight">Update Goal Weight</string>
+    <string name="enter_goal">Enter your goal weight</string>
+    <string name="goal_set">Goal weight set successfully</string>
+    <string name="goal_updated">Goal weight updated</string>
+
+    <!-- SMS Notifications -->
+    <string name="sms_permission_title">Enable Notifications</string>
+    <string name="sms_permission_message">Allow Weight Tracker to send you SMS notifications when you reach your goal weight?</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Not Now</string>
+    <string name="goal_reached">Congratulations! You\'ve reached your goal weight!</string>
+    <string name="sms_sent">SMS notification sent</string>
+
+    <!-- Confirmation -->
+    <string name="confirm_delete">Delete Entry?</string>
+    <string name="confirm_delete_message">Are you sure you want to delete this weight entry?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

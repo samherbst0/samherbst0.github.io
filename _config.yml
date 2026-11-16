@@ -1,0 +1,12 @@
+title: Sam Herbst | CS 499 ePortfolio
+description: >-
+  Computer Science Capstone ePortfolio for Southern New Hampshire University.
+  Three original course projects, reviewed, enhanced, and documented.
+author: Sam Herbst
+github_username: samherbst0
+theme: minima
+header_pages:
+  - index.md
+  - code-review.md
+exclude:
+  - README.md
