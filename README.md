@@ -1,10 +1,10 @@
 # Sam Herbst | CS 499 ePortfolio
 
-This is the source for my ePortfolio for **CS 499: Computer Science Capstone** at Southern New Hampshire University. The site is published with GitHub Pages:
+This is the source for my ePortfolio for **CS 499: Computer Science Capstone** at Southern New Hampshire University (SNHU).
 
 **https://samherbst0.github.io**
 
-The portfolio takes three projects from earlier courses, reviews them, enhances them, and documents the results. As a QA software engineer, I approach each one the same way: find the weaknesses, fix them, and prove each fix with evidence such as tests, benchmarks, and query plans.
+The portfolio takes three projects from earlier courses, reviews them, enhances them, and documents the results.
 
 ## Artifacts
 
